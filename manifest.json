@@ -6,5 +6,6 @@
   "name": "kherdekar",
   "short_name": "kherdekar",
   "start_url": "/?utm_source=web_app_manifest",
+  "theme_color": "#ffffff",
   "orientation": "portrait"
 }
