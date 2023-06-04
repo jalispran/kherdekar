@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/kherdekar/static/js/main.437d3629.js",
+    "static/js/39.5826d20f.js": "/kherdekar/static/js/39.5826d20f.js",
+    "favicon.ico": "/kherdekar/favicon.ico",
+    "index.html": "/kherdekar/index.html",
+    "favicon-32.png": "/kherdekar/favicon-32.png",
+    "favicon-16.png": "/kherdekar/favicon-16.png",
+    "manifest.json": "/kherdekar/manifest.json",
+    "serve.json": "/kherdekar/serve.json",
+    "main.437d3629.js.map": "/kherdekar/static/js/main.437d3629.js.map",
+    "39.5826d20f.js.map": "/kherdekar/static/js/39.5826d20f.js.map"
+  },
+  "entrypoints": [
+    "static/js/39.5826d20f.js",
+    "static/js/main.437d3629.js"
+  ]
+}

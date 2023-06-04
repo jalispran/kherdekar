@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "Remembering P. R. Kherdekar through this website",
+  "display": "standalone",
+  "lang": "en",
+  "name": "kherdekar",
+  "short_name": "kherdekar",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
